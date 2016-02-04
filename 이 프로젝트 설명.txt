@@ -1,0 +1,10 @@
+마우스와 키보드 후킹 프로젝트입니다.
+
+이 프로젝트는 
+http://www.codeproject.com/Articles/7294/Processing-Global-Mouse-and-Keyboard-Hooks-in-C
+이곳에서 퍼왔습니다.
+
+C# WidnowForm 프로젝트와 WPF 프로젝트가 SetWindowsHookEx 함수를 할 때 차이점이 있습니다.
+소스를 잘 분석한 후에 사용하세요..
+
+정리하신 분이 정말 깔끔하고 쉽게 정리해 준 프로젝트입니다.

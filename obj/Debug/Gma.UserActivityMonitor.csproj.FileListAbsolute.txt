@@ -1,0 +1,12 @@
+C:\projects\GlobalHook\Gma.UserActivityMonitor\bin\Debug\Gma.xml
+C:\projects\GlobalHook\Gma.UserActivityMonitor\bin\Debug\Gma.UserActivityMonitor.dll
+C:\projects\GlobalHook\Gma.UserActivityMonitor\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\projects\GlobalHook\Gma.UserActivityMonitor\obj\Debug\Gma.UserActivityMonitor.csprojResolveAssemblyReference.cache
+C:\projects\GlobalHook\Gma.UserActivityMonitor\obj\Debug\Gma.UserActivityMonitor.dll
+C:\projects\GlobalHook\Gma.UserActivityMonitor\obj\Debug\Gma.UserActivityMonitor.pdb
+C:\projects\WPF_TrayTest\Gma.UserActivityMonitor\bin\Debug\Gma.xml
+C:\projects\WPF_TrayTest\Gma.UserActivityMonitor\bin\Debug\Gma.UserActivityMonitor.dll
+C:\projects\WPF_TrayTest\Gma.UserActivityMonitor\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\projects\WPF_TrayTest\Gma.UserActivityMonitor\obj\Debug\Gma.UserActivityMonitor.csprojResolveAssemblyReference.cache
+C:\projects\WPF_TrayTest\Gma.UserActivityMonitor\obj\Debug\Gma.UserActivityMonitor.dll
+C:\projects\WPF_TrayTest\Gma.UserActivityMonitor\obj\Debug\Gma.UserActivityMonitor.pdb
